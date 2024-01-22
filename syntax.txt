@@ -1,0 +1,43 @@
+CONDITIONAL STATEMENTS:
+1)if statement:
+syntax: 
+      if [ condition ];
+      then
+          statement
+      fi
+2)if-elif statement:
+syntax:
+      if [ condition ];
+      then
+          statement
+      elif [ condition ];
+          statement
+      fi
+3)if-else statement:
+syntax:
+      if [ condition ];
+      then
+          statement
+      else
+          statement
+      fi
+LOOPING STATEMENTS:
+1)while loop:
+syntax:
+      while [ condition ]
+      do
+         statement
+      done
+2)for loop:
+syntax:
+      for var in list
+      do
+         statement
+      done
+3)until loop:
+syntax:
+      until [ condition ]
+      do
+         statement
+      done
+
