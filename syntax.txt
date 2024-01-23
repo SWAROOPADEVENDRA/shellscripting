@@ -21,6 +21,17 @@ syntax:
       else
           statement
       fi
+4)case statement:
+syntax:
+      case expression in
+          case1) statement;;
+	  case2) statement;;
+	  case3) statement;;
+	  .................;;
+	  .................;;
+	  .................;;
+	  *) statement;;
+      esac
 LOOPING STATEMENTS:
 1)while loop:
 syntax:
